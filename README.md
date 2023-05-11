@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @xBiohazardx
-- 👀 I’m interested in developing communication protocols and other low level stuff.
-- 🌱 I’m currently learning android programming using java. Yes java because I know it already and didnt want to learn another language like kotlin for a single project.
-- 📫 You can reach me via my github profile
